@@ -15,6 +15,10 @@ public class Rectangle {
         return length;
     }
     
+    public int getArea() {
+        return width*length;
+    }
+    
     public String toString()
     {
         return "Rectangle with width: " + width + " and height: " + height;
