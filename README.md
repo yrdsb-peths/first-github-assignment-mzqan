@@ -1,6 +1,6 @@
 # Welcome to our GitHub classroom!
 
-Do the following to Complete this assignment:
+Do the following to complete this assignment:
 
 1. Begin editing this file by clicking the 'pen' symbol above.
 
